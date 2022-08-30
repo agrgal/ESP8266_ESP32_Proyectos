@@ -291,7 +291,7 @@ boolean pulsarBoton(int cual) {
 // *****************************************************
 String processor(const String& var){ 
 
-  String facString[] = {"<--","-->"}; // cadenas si, manualmente disminuye o no la luminosidad
+  String facString[] = {"&lt;--","--&gt;"}; // cadenas si, manualmente disminuye o no la luminosidad
 
   if (var == "NIVEL") {
      Serial.println("Mi entrada vale "+ (String) entrada[cualES]);
