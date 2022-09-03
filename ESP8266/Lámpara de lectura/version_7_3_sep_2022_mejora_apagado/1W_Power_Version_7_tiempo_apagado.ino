@@ -20,8 +20,8 @@
 // #include "conectarWifi.h" // carga conexión de ficheros
 
 // Constantes de conexión WiFi
-const char* ssid = "JAZZTEL_shny";
-const char* password = "3z7s5tvbtu4s";
+const char* ssid = "JAZZTEL_dsfs";
+const char* password = "cvxcvzxcvxcv";
 String newHostname = "milampara"; // modo local. llamo a milampara.local/ pero no puedo en el móvil ANDROID
 
 IPAddress ip(192,168,1,20); // parámetros de conexión   
